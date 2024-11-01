@@ -1,0 +1,410 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-postsmostread\n"
+"POT-Creation-Date: 2013-02-23 16:23+0100\n"
+"PO-Revision-Date: 2013-02-25 14:52+0100\n"
+"Last-Translator: iziweb_@venir <iziwebavenir@gmail.com>\n"
+"Language-Team: \n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/"
+"wp-content/plugins/wp-postsmostread\n"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/PMRposts.php:123
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/PMRposts.php:301
+msgid "Settings | WP Posts Most Read"
+msgstr "Réglages | WP Posts Most Read"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/PMRposts.php:123
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/PMRposts.php:125
+#, fuzzy
+msgid "Posts Most Read"
+msgstr "Posts Most Read"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/PMRposts.php:125
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/PMRposts.php:311
+msgid "Listing | WP Posts Most Read"
+msgstr "Listing | WP Posts Most Read"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/PMRposts.php:305
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/PMRposts.php:315
+msgid "Description"
+msgstr "Description"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/PMRposts.php:305
+msgid "You can edit and choose your own settings"
+msgstr "Vous pouvez éditer et choisir vos propres paramètres."
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/PMRposts.php:305
+msgid "Go to listing and overview page"
+msgstr "Page de listing"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/PMRposts.php:315
+msgid ""
+"Listing of posts most read. You can use a widget (go to the widget page) or "
+"insert a code in your template. The code to insert and all settings are "
+"available on this page : "
+msgstr ""
+"Liste des articles les plus lus. Vous pouvez utiliser ce plugin en tant que "
+"widget ou insérer un code dans votre thème. Retrouvez les réglages et le "
+"code à insérer sur cette page : "
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/PMRposts.php:315
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/PMRposts.php:526
+msgid "Go to settings page"
+msgstr "Page de réglages"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/PMRposts.php:329
+#, fuzzy
+msgid "Copyright"
+msgstr "Copyright"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/PMRposts.php:339
+msgid "Author"
+msgstr "Auteur"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/PMRposts.php:341
+msgid "website"
+msgstr "site internet"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/PMRposts.php:343
+msgid "Licence"
+msgstr "Licence"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/PMRposts.php:513
+msgid "This widget display a list of posts most read."
+msgstr "Ce widget affiche une liste des articles les plus lus."
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/PMRposts.php:524
+msgid "All settings for this widget are accessible on this page."
+msgstr "Tous les réglages de ce widget sont accessible sur cette page"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRdisplay.php:64
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRdisplay.php:81
+msgid "view"
+msgstr "vue"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRdisplay.php:64
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRdisplay.php:81
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRdisplay_admin.php:13
+msgid "views"
+msgstr "vues"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRdisplay.php:109
+msgid "Nothing shown"
+msgstr "Rien d'affiché"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRdisplay_admin.php:15
+msgid "Posts"
+msgstr "Articles"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRdisplay_admin.php:41
+msgid "No posts"
+msgstr "Pas d'article"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRlisting.php:11
+msgid "Reset number of views"
+msgstr "Effacer le nombre de vues"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRlisting.php:13
+msgid ""
+"You have the possibility to put all count to zero (This action will delete "
+"all data recorded)"
+msgstr ""
+"Possibilité de mettre les compteurs à zéro (cette action va supprimer toutes "
+"les vues associées aux articles)"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRlisting.php:15
+msgid "Are you sure? If you you want reset number of views, click yes."
+msgstr "Vous souhaitez vraiment effacer les nombres de vues?"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRlisting.php:17
+msgid "Reset"
+msgstr "Effacer"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:11
+msgid "Preview"
+msgstr "Aperçu"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:23
+msgid "Display title"
+msgstr "Afficher titre?"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:25
+msgid "You have the possibility to display or not the title of the list."
+msgstr "Possibilité d'afficher le titre de la liste ou non."
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:31
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:83
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:131
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:171
+msgid "No"
+msgstr "Non"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:33
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:85
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:173
+msgid "Yes"
+msgstr "Oui"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:37
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:49
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:67
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:89
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:113
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:139
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:151
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:177
+msgid "Save"
+msgstr "Enregistrer"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:43
+msgid "Title "
+msgstr "Titre"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:61
+msgid "Number of article to display"
+msgstr "Nombre d'article à afficher"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:77
+msgid "Display number of views?"
+msgstr "Afficher le nombre de vues?"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:99
+msgid "Alignment vertical or horizontal?"
+msgstr "Alignement vertical or horizontal?"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:101
+msgid ""
+"You have the choice to display your list in horizontal way or in vertical "
+"way."
+msgstr "Possibilité d'afficher les articles horizontalement ou verticalement."
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:107
+msgid "Vertical"
+msgstr "Vertical"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:109
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:123
+msgid "Display images?"
+msgstr "Afficher images?"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:125
+msgid ""
+"You have the possibility to display the thumbnail of posts. With or without "
+"the title posts."
+msgstr ""
+"Possibilité d'afficher les images à la une de dos articles. Avec ou sans le "
+"titre de l'article."
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:133
+msgid "Display without posts title"
+msgstr "Afficher sans le titre de l'article"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:135
+msgid "Display with posts title"
+msgstr "Afficher avec le titre de l'article"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:145
+msgid "Images width"
+msgstr "Largeur des images"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:163
+msgid "Use AJAX to Count?"
+msgstr "Utiliser AJAX pour compter les vues?"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:165
+msgid ""
+"If you use a plugin such as WP Super Cache, choose yes. If you have doubts, "
+"leave to No."
+msgstr ""
+"Nécessaire si vous utilisez un plugin comme WP Super Cache. Dans le doute "
+"laisser à non."
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:187
+msgid "Default options?"
+msgstr "Remettre les options par défaut?"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:189
+msgid ""
+"Reset all options you have recorded and display the list with defaults "
+"options."
+msgstr "Effacer toutes les options"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:191
+msgid "Are you sure? If you want to go back to defaults options, click yes."
+msgstr "Souhaitez vous vraiment effacer toutes les options?"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:193
+msgid "Back to default options"
+msgstr "Retour aux réglages par défaut"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:203
+msgid "Code to insert in your theme to show the list"
+msgstr "Code à insérer dans votre thème"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:205
+msgid ""
+"You have the possibility to display the list anywhere in your template. Just "
+"copy-paste this code."
+msgstr ""
+"Possibilité d'insérer ce code dans votre thème Worpress. Faites simplement "
+"un simple copier-coller."
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:223
+msgid "Information about HTML structure for you template css"
+msgstr "Structure HTML pour votre thème"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:225
+msgid ""
+"If you want to modify the css style of the list, we give you the html "
+"structure to help you to modify it."
+msgstr ""
+"Voici le code HTML pour vous aider à modifier le style CSS. Le code css que "
+"vous créerai est à rajouter dans la feuille de style de votre thème."
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:231
+msgid "Title"
+msgstr "Titre"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:234
+msgid "Link"
+msgstr "Lien"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:243
+msgid "Class of"
+msgstr "La classe de"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:243
+msgid "is"
+msgstr "est"
+
+#: /Users/thomasbrechot/Sites/cahiersduhandballcom/www/wp-content/plugins/wp-postsmostread/inc/PMRoptions.php:243
+msgid "if you choose horizontal alignment option"
+msgstr "si vous choisissez l'alignement horizontal"
+
+#~ msgid ""
+#~ "You can see on this page an overview of what plugin show and a list with "
+#~ "the 200 posts most read. You can choose and edit several options on the "
+#~ "settings page."
+#~ msgstr ""
+#~ "Cette page vous permet de voir ce qui est affiché en frontend et recense "
+#~ "les 200 articles les plus lus de votre site."
+
+#~ msgid "Listing of"
+#~ msgstr "Liste de"
+
+#~ msgid "posts"
+#~ msgstr "articles"
+
+#~ msgid "Listing - Overview | WP Posts Most Read"
+#~ msgstr "Listing - Aperçu |  WP Posts Most Read"
+
+#~ msgid "Settings | Posts Most Read"
+#~ msgstr "Réglages |  WP Posts Most Read"
+
+#~ msgid "PMR: Settings"
+#~ msgstr "PMR: Réglages"
+
+#~ msgid "Listing - Overview | Posts Most Read"
+#~ msgstr "Listing - Aperçu | Posts Most Read"
+
+#~ msgid "settings page link"
+#~ msgstr "Page de réglages"
+
+#~ msgid "option page title"
+#~ msgstr "Settings | Posts Most Read"
+
+#~ msgid "PMR option page menu"
+#~ msgstr "PMR: Settings"
+
+#~ msgid "listing page title"
+#~ msgstr "Listing - Overview | Posts Most Read"
+
+#~ msgid "PMR listing page menu"
+#~ msgstr "PMR: Most Read"
+
+#~ msgid "Widget description"
+#~ msgstr "This widget display a list of posts most read."
+
+#~ msgid "listing page description"
+#~ msgstr ""
+#~ "You can see on this page an overview of what plugin show and a list with "
+#~ "the 200 posts most read. You can choose and edit several options on the "
+#~ "settings page."
+
+#~ msgid "Code Inserted Preview"
+#~ msgstr "Preview"
+
+#~ msgid "Posts most read listing"
+#~ msgstr "Listing"
+
+#~ msgid "option page description"
+#~ msgstr ""
+#~ "You can edit and choose your own settings : title, number of views, "
+#~ "images, ..."
+
+#~ msgid "listing page link"
+#~ msgstr "Go to listing and overview page"
+
+#~ msgid "Reset number of views description"
+#~ msgstr ""
+#~ "You have possibility to put all count to zero. This action will delete "
+#~ "all data recorded."
+
+#~ msgid "Reset number of views confirm"
+#~ msgstr "Are you sure? If you you want reset number of views, click yes."
+
+#~ msgid "Show title in frontend?"
+#~ msgstr "Display title?"
+
+#~ msgid "Show title in frontend description"
+#~ msgstr "You have possibility to display or not the title of the list."
+
+#~ msgid "Title in frontend"
+#~ msgstr "Title"
+
+#~ msgid "Show number of views in frontend?"
+#~ msgstr "Display number of views?"
+
+#~ msgid "Alignment vertical or horizontal description"
+#~ msgstr ""
+#~ "You have the choice to display your list in horizontal way or in vertical "
+#~ "way."
+
+#~ msgid "Display images instead of titles description"
+#~ msgstr ""
+#~ "You have the possibility to display the thumbnail of posts. With or "
+#~ "without the title posts."
+
+#~ msgid "Use AJAX to count description"
+#~ msgstr ""
+#~ "If you use a plugin such as WP Super Cache, choose yes. If you have "
+#~ "doubts, leave to No."
+
+#~ msgid "Default options description"
+#~ msgstr ""
+#~ "Reset all options you have recorded and display the list with defaults "
+#~ "options."
+
+#~ msgid "Reset options confirm"
+#~ msgstr ""
+#~ "Are you sure? If you want to go back to defaults options, click yes."
+
+#~ msgid "Code to insert description"
+#~ msgstr ""
+#~ "You have the possibility to display the list anywhere in your template. "
+#~ "Just copy-paste this code."
+
+#~ msgid "Information about HTML structure for css description"
+#~ msgstr ""
+#~ "If you want to modify the css style of the list, we give you the html "
+#~ "structure to help you to modify it."
